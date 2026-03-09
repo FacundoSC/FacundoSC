@@ -3,6 +3,15 @@
 
 I am a **Computer Engineer** (University of Tucumán) with over **9 years of experience** architecting and delivering high-performance software. Currently, I specialize in scaling e-commerce ecosystems at **Mercado Libre**, focusing on reliability and seamless data integration for millions of users.
 
+
+---
+
+### 🛠 Proyects
+- 🚌 [viajes-app](https://viajes-app-iota.vercel.app/)
+
+---
+
+
 ---
 
 ### 🚀 Key Professional Highlights
