@@ -8,6 +8,7 @@ I am a **Computer Engineer** (University of Tucumán) with over **9 years of exp
 
 ### 🛠 Proyects
 - 🚌 [viajes-app](https://viajes-app-iota.vercel.app/)
+- 📝 [mi-blog](https://comforting-mooncake-4ea759.netlify.app/)
 
 ---
 
